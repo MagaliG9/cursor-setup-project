@@ -9,7 +9,9 @@
 ## Post 1
 
 **Title:** LinkedIn Algorithm Insights Report 2026
+
 **Content Type:** LinkedIn Post
+
 **Date:** May 2026
 
 **Source** [LinkedIn Post] <https://www.linkedin.com/posts/richardvanderblom_the-algorithm-insights-report-2026-is-built-share-7460662147040104450-B92a/>
