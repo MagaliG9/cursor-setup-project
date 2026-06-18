@@ -1,5 +1,7 @@
 # Richard van der Blom
 
+## Profile
+
 **LinkedIn:** <https://www.linkedin.com/in/richardvanderblom/>
 
 **Area of Expertise:** LinkedIn algorithm research, B2B authority building, social selling, employee advocacy, and data-driven content strategy.
