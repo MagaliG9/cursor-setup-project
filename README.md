@@ -1,5 +1,5 @@
-# cursor-setup-project
-Learning project documenting Cursor, AI tools, and GitHub setup workflow
+# Cursor and AI Tools Setup Project
+
 ## Overview
 
 This repository documents the installation and setup process for Cursor IDE, AI coding tools, Git, and GitHub integration.
@@ -48,3 +48,100 @@ After installing Git and restarting Cursor, I successfully cloned the repository
 ## Key Learning
 
 This project helped me understand how Cursor, Git, and GitHub work together, as well as the importance of troubleshooting setup and development environments independently.
+
+
+# LinkedIn Organic Content Strategy for B2B SaaS
+
+## Project Overview
+
+This repository contains research on LinkedIn Organic Content Strategy for B2B SaaS companies. The objective was to identify leading experts, collect recent content from multiple sources, and organize insights into a structured research repository.
+
+The research focuses on how B2B SaaS companies use LinkedIn to build authority, generate demand, strengthen personal brands, and create sustainable organic growth.
+
+## Research Scope 
+
+The project covers:
+
+- LinkedIn algorithm research
+- Founder-led content
+- Employee advocacy
+- Personal branding
+- Demand generation
+- Zero-click marketing
+- Community-led growth
+- B2B SaaS content strategy
+
+## Selected Experts
+
+- Richard van der Blom
+- Michelle J Raymond
+- Tommy Clark
+- Pierre Herubel
+- Dave Gerhardt
+- Anthony Pierri
+- Amanda Natividad
+- Melissa Gaglione
+- Gaetano Nino DiNardi
+- Jasmin Alić
+
+## Why These Experts
+
+These experts were selected because they actively publish research, case studies, and frameworks related to:
+
+- LinkedIn algorithm optimization
+- Founder-led content
+- Employee advocacy
+- Personal branding
+- Demand generation
+- Community building
+- Zero-click marketing
+- B2B SaaS growth
+
+## Repository Structure
+
+research/
+├── linkedin-posts/
+├── youtube-transcripts/
+├── other/
+└── sources.md
+
+## sources.md
+
+Master list of experts, source links, publication dates, and research notes.
+
+## linkedin-posts
+
+Individual research files containing recent LinkedIn posts, summaries, key insights, and B2B SaaS implications.
+
+## youtube-transcripts
+
+Research summaries derived from relevant YouTube content, including key ideas and strategic takeaways.
+
+## other
+
+Additional supporting materials such as reports, articles, newsletters, guides, and long-form resources.
+
+## Key Findings
+
+- Founder-Led Content Outperforms Company Pages
+- Multiple experts emphasize that founder and executive profiles consistently outperform company pages in terms of engagement, reach, and trust.
+- Topic Authority Matters
+- LinkedIn increasingly rewards creators who consistently publish around a defined set of topics rather than covering unrelated subjects.
+- Zero-Click Content Builds Demand
+- Providing value directly within LinkedIn posts often generates stronger audience trust and long-term demand than click-focused content.
+- Employee Advocacy Expands Reach
+- Organizations that activate employees as content creators can significantly increase organic distribution and audience engagement.
+- Consistency Beats Virality
+- Long-term publishing systems and clear positioning outperform isolated viral posts.
+
+## Research Method
+
+Research was conducted using a combination of:
+
+- LinkedIn posts
+- YouTube content
+- Industry reports
+- Articles and newsletters
+- AI-assisted research workflows
+
+The collected content was reviewed, summarized, and organized into structured research files to identify recurring themes and practical frameworks for B2B SaaS marketing teams.
