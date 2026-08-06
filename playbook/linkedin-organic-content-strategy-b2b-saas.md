@@ -56,6 +56,10 @@ This playbook focuses specifically on LinkedIn organic content strategy for B2B 
 
 The research base is global, drawing primarily from practitioners working with English-speaking B2B SaaS companies. While the principles are broadly applicable, organizations should adapt examples and messaging to their local markets. 
 
+## **Research methodology**
+
+The sources referenced in this playbook were collected and analyzed using a combination of AI-assisted research workflows and manual review. AI tools were used to organize notes, summarize long-form content, compare expert perspectives, and identify recurring themes. Key recommendations included in this playbook were reviewed against the original source materials before being incorporated into the final SOP.
+
 ## **North Star Principle**
 
 Every recommendation in this playbook should contribute to the following progression: 
@@ -1651,8 +1655,6 @@ In other words, links should extend value rather than create it. Readers should 
 
 ### The purpose of documenting these disagreements is not to determine a universally correct approach, but to make explicit the strategic decisions adopted throughout this playbook. Where experts differed, I selected the approach that best aligned with the evidence gathered, the needs of early-stage B2B SaaS companies, and the guiding principles established in this SOP.
 
-
-
 # 7. What I Rejected and Why
 
 Not every recommendation encountered during the research process was incorporated into this playbook. In several cases, ideas were excluded because they conflicted with the guiding principles established throughout the framework or because they prioritized short-term platform performance over long-term business value.
@@ -1713,10 +1715,10 @@ Qualified Opportunities
 
 Different types of content contribute to different stages of this progression.
 
--  Educational frameworks primarily establish authority. 
--  Industry analysis reinforces expertise. 
--  Founder perspectives humanize the organization. 
--  Customer stories strengthen trust by providing evidence of successful outcomes. 
+- Educational frameworks primarily establish authority. 
+- Industry analysis reinforces expertise. 
+- Founder perspectives humanize the organization. 
+- Customer stories strengthen trust by providing evidence of successful outcomes.
 
 No single post is expected to generate business opportunities on its own. Instead, opportunities emerge through the cumulative effect of consistently moving audiences through these stages over time.
 
