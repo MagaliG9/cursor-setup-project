@@ -52,8 +52,6 @@ This playbook focuses specifically on LinkedIn organic content strategy for B2B 
 - Other social platforms 
 - SEO outside LinkedIn
 
- 
-
 The research base is global, drawing primarily from practitioners working with English-speaking B2B SaaS companies. While the principles are broadly applicable, organizations should adapt examples and messaging to their local markets. 
 
 ## **Research methodology**
@@ -171,7 +169,9 @@ Possible objectives include:
 - Strengthen customer relationships
 - Attract talent
 
-## **Avoid attempting to optimize for multiple primary objectives simultaneously.**
+**Avoid attempting to optimize for multiple primary objectives simultaneously.**
+
+---
 
 ## **2. Define the Ideal Customer Profile (ICP)**
 
@@ -1698,10 +1698,6 @@ One observation that emerged throughout the research is that experts consistentl
 To address this gap, I propose what I call the **Authority Ladder**.
 
 Rather than evaluating each LinkedIn post independently, organizations should evaluate whether their overall content system moves prospective buyers through four progressive stages:
-
-```
-
-```
 
 ```
 Awareness
